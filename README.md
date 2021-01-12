@@ -1,14 +1,14 @@
-### Hi there ✌
+### Hey there ✌
 *allons-y*
-<!--
-**hglps/hglps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm a 20 years old undergraduate at Universidade Federal de Alagoas(UFAL) and I'm currently exploring multiples projects to discover what I want to do later.
 
-- 🔭 I’m currently working on a chatbot project and a project envolving optimization algorithms for optical amplifiers.
+Willing to learn a little bit of everything everyday. 😄
+
+- 🔭 I’m currently working on a chatbot project and a project envolving optimization algorithms for optical amplifiers at EASY.
 - 🌱 I’m currently learning basically anything, but particularly Python | Flutter | Java.
-<!-- - 🤔 I’m looking for help with !--> 
 - 📫 How to reach me: [via email](hlc2@ic.ufal.br).
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his.
 
 [![Hiago's github stats](https://github-readme-stats.vercel.app/api?username=hglps)](https://github.com/hglps/github-readme-stats)
 
