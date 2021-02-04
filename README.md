@@ -10,8 +10,8 @@ Willing to learn a little bit of everything everyday. 😄
 - 📫 How to reach me: [via email](hlc2@ic.ufal.br).
 - 😄 Pronouns: he/him/his.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hglps&theme=dracula&langs_count=10)](https://github.com/hglps)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hglps&theme=radical&langs_count=10)](https://github.com/hglps)
 
-![Hiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=hglps&theme=dracula&show_icons=true)
+![Hiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=hglps&theme=radical&show_icons=true)
 
 *"Vorfelan rhinata morie"* - The desire for knowledge shapes a man
