@@ -5,8 +5,8 @@ I'm a 20 years old undergraduate at Universidade Federal de Alagoas(UFAL) and I'
 
 Willing to learn a little bit of everything everyday. 😄
 
-- 🔭 I’m currently working on a chatbot and computer vision project and another one envolving optimization algorithms for optical amplifiers at EASY.
-- 🌱 I’m currently learning basically anything, but particularly Python | MATLAB | Flutter | Java.
+- 🔭 I’m currently working on a computer vision project as machine learning engineer at EDGE.
+- 🌱 I’m learning basically anything, but particularly Python | Flutter | C++ | MATLAB | Java.
 - 📫 How to reach me: [via email](hlc2@ic.ufal.br).
 - 😄 Pronouns: he/him/his.
 
