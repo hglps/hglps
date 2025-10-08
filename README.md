@@ -1,7 +1,7 @@
 ### Hey there ✌
 *allons-y*
 
-I'm a 23 years old undergraduate at Universidade Federal de Alagoas(UFAL) and I'm currently exploring multiples projects to discover what I want to work with later.
+I'm a 25 years old undergraduate at Universidade Federal de Alagoas(UFAL) and I'm currently exploring multiples projects to discover what I want to work with later.
 
 Willing to learn a little bit of everything everyday. 😄
 
