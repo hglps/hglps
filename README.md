@@ -1,12 +1,12 @@
 ### Hey there ✌
 *allons-y*
 
-I'm a 25 years old undergraduate at Universidade Federal de Alagoas(UFAL) and I'm currently exploring multiples projects to discover what I want to work with later.
+I'm a 25 years old computer engineer, doing my master's degree at Universidade Federal de Alagoas(UFAL) and currently exploring multiples projects to discover what I want to work with later.
 
 Willing to learn a little bit of everything everyday. 😄
 
-- 🔭 I’m currently working on a computer vision project as machine learning engineer at EDGE.
-- 🌱 I’m learning basically anything, but particularly Python | Flutter | C++ | MATLAB | Java.
+- 🔭 I’m currently working on computer vision and LLM projects as a machine learning engineer at EDGE.
+- 🌱 I’m learning anything, but particularly Python | Flutter | Kotlin .
 - 📫 How to reach me: [via email](hiagolopes7@gmail.com).
 - 😄 Pronouns: he/him.
 
